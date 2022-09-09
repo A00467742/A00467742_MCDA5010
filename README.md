@@ -7,17 +7,17 @@ While discussing about each other we came to know that we all have similar inter
 
 Our Group Members:
 
-1)	Name: 		  Arpan
-	  Country: 	  India 
-	  Why MSCDA: 	To gain great learning experience of latest technologies along with data analytics in IT industry and looking forward to get a decent job.
+1)	Name: 		Arpan <br />
+	Country: 	India <br />
+	Why MSCDA: 	To gain great learning experience of latest technologies along with data analytics in IT industry and looking forward to get a decent job. <br />
 	
-2)	Name:		    Mehul
-	  Country: 	  India 
-	  Why MSCDA: 	He selected MSCDA course because he wants to extend his database related to knowledge in order to get data scientist position.
+2)	Name:		Mehul <br />
+	Country: 	India <br />
+	Why MSCDA: 	He selected MSCDA course because he wants to extend his database related to knowledge in order to get data scientist position. <br />
 
-3)	Name:		    Shweta
-	  Country: 	  India 
-	  Why MSCDA: 	She has already primary level experience as a Data Scientist and now she aims to go deeper in same field by doing this course. 
+3)	Name:		Shweta <br />
+	Country: 	India <br />
+	Why MSCDA: 	She has already primary level experience as a Data Scientist and now she aims to go deeper in same field by doing this course. <br />
 
 
 While I like thriller and suspense movies, Mehul and Shweta love to watch all action and romantic movies respectively. We are also planning for a weekend trip for watching movie either in theatre or someone’s house to have a fun with each other.
