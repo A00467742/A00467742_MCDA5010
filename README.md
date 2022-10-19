@@ -1,3 +1,6 @@
+Added new folder named ProgAssign1 for .net assignment of merging the csv files into a single csv file.
+
+---------------------------------------------------------------------------------------------------------------------------------
 My name is Arpan Patel, my preferred email address is arpan.patel@smu.ca and my A-number is A00467742.
 I have completed my bachelor in computer engineering in 2015. Since then, I have more than 7 years’ experience as a software developer in various technologies like Angular 10, ASP.NET MVC, C# .NET Core, Entity Framework, Docker, Kubernetes, Helm Chart. I have also worked on Azure Kubernetes Services along with CI/CD Pipeline. I have worked on most of the projects in healthcare and finance.
 My hobbies are watching movies, sports and playing indoor activities like chess.
