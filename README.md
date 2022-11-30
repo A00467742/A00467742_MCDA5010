@@ -1,3 +1,7 @@
+Added new folder named MvcAssignment for MVC Application demo assignment of Saint Mary's University.
+
+---------------------------------------------------------------------------------------------------------------------------------
+
 Added new folder named ProgAssign1 for .net assignment of merging the csv files into a single csv file.
 
 ---------------------------------------------------------------------------------------------------------------------------------
